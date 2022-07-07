@@ -13,4 +13,4 @@ ModMenu = https://www.curseforge.com/minecraft/mc-mods/modmenu
 
 
 
-![image](https://user-images.githubusercontent.com/102632348/177668539-4095280f-0b4f-4876-b2a9-4a6aa831daa3.png)
+![image](https://gyazo.com/e2385eda923e2874bf4b5221323df1d0.gif)

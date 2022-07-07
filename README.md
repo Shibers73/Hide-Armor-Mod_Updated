@@ -6,7 +6,7 @@ I DO NOT OWN THIS MOD I'M JUST UPDATING IT CAUSE OWNERS AREN'T DOING IT
 
 TO MAKE THE MOD WORK YOU NEED:
 
-FabricApi = [![name](https://www.curseforge.com/minecraft/mc-mods/fabric-api)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
+FabricApi = [![name](https://i.imgur.com/Ol1Tcf8.png)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
 ModMenu = https://www.curseforge.com/minecraft/mc-mods/modmenu
 

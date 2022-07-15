@@ -10,7 +10,5 @@ I DO NOT OWN THIS MOD I'M JUST UPDATING IT CAUSE OWNERS AREN'T DOING IT
 
 [<img alt="alt_text" width="180px" src="https://i.imgur.com/dMYWAjn.png" />](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 
-If you wanna support me you can donate here: https://paypal.me/ShibaYT
-
 Showcase:
 ![image](https://gyazo.com/e2385eda923e2874bf4b5221323df1d0.gif)

@@ -13,3 +13,5 @@ I DO NOT OWN THIS MOD I'M JUST UPDATING IT CAUSE OWNERS AREN'T DOING IT
 
 Showcase:
 ![image](https://gyazo.com/e2385eda923e2874bf4b5221323df1d0.gif)
+
+If you wanna support me you can donate here: https://paypal.me/ShibaYT

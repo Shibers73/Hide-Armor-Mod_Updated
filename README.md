@@ -4,7 +4,9 @@
 
 Original Mod: https://www.curseforge.com/minecraft/mc-mods/hide-armor
 
-I DO NOT OWN THIS MOD I'M JUST UPDATING IT CAUSE OWNERS AREN'T DOING IT
+(DOWNLOAD IT FROM CURSEFORGE)
+
+I DO NOT OWN THIS MOD I'M JUST UPDATING IT
 
 [<img alt="alt_text" width="180px" src="https://i.imgur.com/Ol1Tcf8.png" />](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 
